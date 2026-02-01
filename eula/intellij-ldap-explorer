@@ -1,0 +1,72 @@
+End User License Agreement (EULA)
+
+for LDAP Explorer IntelliJ Plugin
+
+Last Updated: February 1, 2026
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE LDAP EXPLORER PLUGIN.
+
+This End User License Agreement (“Agreement”) is a legal agreement between you (“User” or “You”) and Manuel Kolm (“Licensor,” “We,” or “Us”) regarding your use of the LDAP Explorer plugin (“Plugin”) for IntelliJ IDEA or other JetBrains IDEs. By downloading, installing, or using the Plugin, you agree to be bound by the terms of this Agreement.
+
+1. License Grant
+
+Subject to the terms of this Agreement, Licensor grants You a personal, non-exclusive, non-transferable, revocable license to:
+1.1. Download, install, and use the Plugin on your personal or business systems.
+1.2. Use the Plugin for your internal purposes only.
+
+Note: The Plugin is provided free of charge at this time. Some features may be offered under a commercial license in the future. Licensor reserves the right to modify, restrict, or remove functionality at its discretion.
+
+2. Restrictions
+
+You may not:
+2.1. Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Plugin.
+2.2. Rent, lease, sell, redistribute, sublicense, or otherwise transfer the Plugin to any third party.
+2.3. Use the Plugin in violation of applicable laws or regulations.
+2.4. Remove or alter any copyright, trademark, or proprietary notices in the Plugin.
+
+3. Commercial Features
+
+3.1. Licensor may introduce paid features, subscriptions, or licensing models in the future.
+3.2. Free access to existing features does not guarantee free access to future features.
+3.3. Use of commercial features, if any, will require acceptance of separate licensing terms and/or payment.
+
+4. Ownership
+
+The Plugin, including all intellectual property rights, copyrights, trademarks, and trade secrets, is and shall remain the exclusive property of the Licensor. No title or ownership rights are transferred to You under this Agreement.
+
+5. Updates and Support
+
+Licensor may, at its sole discretion, provide updates, upgrades, or support for the Plugin. Licensor is under no obligation to provide any support or updates.
+
+6. Termination
+
+6.1. This Agreement is effective until terminated.
+6.2. Licensor may terminate this Agreement at any time for violation of its terms.
+6.3. Upon termination, You must cease all use of the Plugin and delete all copies in your possession.
+
+7. Disclaimer of Warranty
+
+The Plugin is provided “AS IS” without warranty of any kind. Licensor expressly disclaims all warranties, whether express or implied, including but not limited to:
+
+merchantability
+
+fitness for a particular purpose
+
+non-infringement
+
+compatibility with your systems
+
+8. Limitation of Liability
+
+To the maximum extent permitted by law, Licensor shall not be liable for any indirect, incidental, consequential, special, or punitive damages, including but not limited to loss of profits, data, or business, arising out of or in connection with the use or inability to use the Plugin.
+
+9. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of Manuel Kolm, without regard to conflict of law principles. Any disputes arising from this Agreement shall be subject to the exclusive jurisdiction of the courts located in Austria.
+
+10. Miscellaneous
+
+10.1. If any provision of this Agreement is held invalid, the remaining provisions shall remain in full force and effect.
+10.2. This Agreement constitutes the entire agreement between You and Licensor regarding the Plugin and supersedes any prior agreements.
+
+By using the LDAP Explorer plugin, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement.
