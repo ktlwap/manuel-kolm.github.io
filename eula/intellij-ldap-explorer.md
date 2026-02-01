@@ -45,7 +45,8 @@ The Plugin and all associated intellectual property rights remain the exclusive 
 
 ## Updates and Support
 
-Licensor may, but is not obligated to, provide updates, upgrades, bug fixes, or support. All updates are subject to this Agreement unless otherwise stated.
+Licensor may, but is not obligated to, provide updates, upgrades, bug fixes, or support. All updates are subject to this Agreement unless otherwise stated.  
+You are responsible for installing available updates to ensure correct and secure operation of the Plugin.
 
 ---
 
@@ -64,7 +65,9 @@ Licensor disclaims all warranties, express or implied, including but not limited
 
 ## Limitation of Liability
 
-**TO THE MAXIMUM EXTENT PERMITTED BY LAW**, Licensor shall not be liable for any indirect, incidental, consequential, special, or punitive damages, including loss of profits, data, or business, arising out of or related to the use or inability to use the Plugin.
+**TO THE MAXIMUM EXTENT PERMITTED BY LAW, AND ONLY IF YOU ARE USING THE MOST CURRENTLY AVAILABLE VERSION OF THE PLUGIN**, Licensor shall not be liable for any indirect, incidental, consequential, special, or punitive damages, including loss of profits, data, or business, arising out of or related to the use of or inability to use the Plugin.
+
+Licensor shall have no obligation to provide liability protection for issues arising from the use of outdated or unsupported versions of the Plugin.
 
 ---
 
