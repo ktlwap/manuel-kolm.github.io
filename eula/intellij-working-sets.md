@@ -1,12 +1,12 @@
 # End User License Agreement (EULA)
-**Working Set Plugin for JetBrains IDEs**  
+**Working Sets Plugin for JetBrains IDEs**  
 _Last Updated: October 10, 2026_
 
 ---
 
 **IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY.**
 
-This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "You") and **Manuel Kolm** ("Licensor", "We", or "Us") governing your use of the **Working Set** plugin ("Plugin") for IntelliJ IDEA and other JetBrains IDEs.
+This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "You") and **Manuel Kolm** ("Licensor", "We", or "Us") governing your use of the **Working Sets** plugin ("Plugin") for IntelliJ IDEA and other JetBrains IDEs.
 
 By downloading, installing, or using the Plugin, You agree to be bound by this Agreement.
 
@@ -83,4 +83,4 @@ If any provision of this Agreement is held invalid or unenforceable, the remaini
 
 ---
 
-By using the Working Set Plugin, You acknowledge that You have read, understood, and agreed to this Agreement.
+By using the Working Sets Plugin, You acknowledge that You have read, understood, and agreed to this Agreement.
